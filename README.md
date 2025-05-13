@@ -1,6 +1,6 @@
 # Biometric Multi-Factor Authentication (MFA) System
 
-This project implements a secure biometric-based Multi-Factor Authentication (MFA) system for cloud environments, integrating fingerprint and facial recognition with AI-driven anomaly detection and advanced encryption. It is deployed on AWS Elastic Beanstalk, using Amazon S3 for biometric template storage, RDS PostgreSQL for user metadata, and AWS KMS for encryption key management. The system achieves a False Acceptance Rate (FAR) and False Rejection Rate (FRR) below 5%, 90% spoofing detection, 100% replay attack prevention, and an average latency of 500 ms for 100 concurrent users, with a user satisfaction score of 4/5 via a Streamlit interface.
+This project implements a secure biometric-based Multi-Factor Authentication (MFA) system for cloud environments, integrating fingerprint and facial recognition with AI-driven anomaly detection and advanced encryption. It is deployed on AWS Elastic Beanstalk, using Amazon S3 for biometric template storage, RDS PostgreSQL for user metadata, and AWS KMS for encryption key management. The system achieves a False Acceptance Rate (FAR) and False Rejection Rate (FRR) below 5%, and an average latency of 500 ms for 100 concurrent users, with a user satisfaction score of 4/5 via a Streamlit interface.
 
 This work was developed as part of a dissertation for an MSc in Computer Science (Cyber Security) at Staffordshire University, focusing on enhancing cloud security through biometric MFA, AI, and encryption.
 
