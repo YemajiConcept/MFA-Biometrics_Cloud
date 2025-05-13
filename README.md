@@ -120,7 +120,7 @@ This work was developed as part of a dissertation for an MSc in Computer Science
 
 3. **Authentication**:
    - Use the authentication interface (`main.py`) to verify users.
-   - Upload live facial and fingerprint images.
+   - Upload facial and fingerprint images.
    - The system will compare against stored templates, perform liveness detection, and check for anomalies.
 
 4. **Monitoring**:
