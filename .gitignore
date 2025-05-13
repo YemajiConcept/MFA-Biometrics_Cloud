@@ -1,0 +1,33 @@
+# Python and Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Temporary Files
+temp_*
+*.log
+
+# Data Directories (Sensitive Test Images)
+data/
+
+# Model Files (Large and Sensitive)
+models/
+
+# AWS Configuration with Sensitive Credentials
+secrets.toml
+.ebextensions/options.config
+
+# Elastic Beanstalk Local Config (if any)
+.elasticbeanstalk/
+
+# Environment Variables and Local Config
+.env
+*.local
+
+# macOS and Windows System Files
+.DS_Store
+Thumbs.db
