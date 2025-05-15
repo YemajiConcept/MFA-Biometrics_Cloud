@@ -151,4 +151,4 @@ This work was developed as part of a dissertation for an MSc in Computer Science
 
 
 ## Acknowledgments
-This project was developed as part of a dissertation under the supervision of Dr. Hassan Malik at Staffordshire University. Special thanks to the university staff, family, and friends for their support.
+This project was developed as part of a dissertation under the supervision of Dr. Ange Aly at Staffordshire University. Special thanks to the university staff, family, and friends for their support.
